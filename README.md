@@ -28,6 +28,5 @@ Clone this repository and run the Jupyter Notebook (databases.ipynb) locally.
 
 - Find a dataset you want to analyze.
 - Explore the dataset.
-- Decide with data you need to clean up.
 
 Remember, you can always ask for help in the `#playingwml-bootcamp` Slack channel
