@@ -1,0 +1,14 @@
+# Jupyter and Pandas Libraries
+jupyter
+numpy
+pandas
+lxml
+html5lib
+beautifulsoup4
+requests
+plotly
+
+# Development tools
+black
+pylint
+mypy
