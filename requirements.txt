@@ -2,6 +2,7 @@
 jupyter
 numpy
 pandas
+matplotlib
 lxml
 html5lib
 beautifulsoup4
